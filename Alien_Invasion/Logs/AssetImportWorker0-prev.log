@@ -1,0 +1,117 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16326 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Joshua Verhoeff/Documents/Year4_Semester_1/Interactive_Media/majorgroupproject2-josh-s-group-3d/Alien_Invasion
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54208
+Successfully changed project path to: C:/Users/Joshua Verhoeff/Documents/Year4_Semester_1/Interactive_Media/majorgroupproject2-josh-s-group-3d/Alien_Invasion
+C:/Users/Joshua Verhoeff/Documents/Year4_Semester_1/Interactive_Media/majorgroupproject2-josh-s-group-3d/Alien_Invasion
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Joshua Verhoeff/Documents/Year4_Semester_1/Interactive_Media/majorgroupproject2-josh-s-group-3d/Alien_Invasion/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6611
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001962 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2939 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.4 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 3366.
+Total: 3.011200 ms (FindLiveObjects: 0.246500 ms CreateObjectMapping: 0.135800 ms MarkObjects: 1.833900 ms  DeleteObjects: 0.794400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fonts/Scary Halloween Font SDF.asset
+  artifactKey: Guid(7c62a002ee9b2f14da81c3f0c4c1c8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Scary Halloween Font SDF.asset using Guid(7c62a002ee9b2f14da81c3f0c4c1c8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53f75f11a60401d9962c466f27f7bc4') in 0.210086 seconds
+  Import took 0.218658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.177555 seconds.
+  path: Assets/AssetStore/Real Stars Skybox/StarSkybox04/Materials
+  artifactKey: Guid(d31189e51ae85b745969e91a9382feb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Real Stars Skybox/StarSkybox04/Materials using Guid(d31189e51ae85b745969e91a9382feb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c4ac474b38ebba208148c25afe6fc6d') in 0.002044 seconds
+  Import took 0.006594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080986 seconds.
+  path: Assets/AssetStore/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat
+  artifactKey: Guid(ace83af6f6d3eff4b9f7a551b789775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStore/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat using Guid(ace83af6f6d3eff4b9f7a551b789775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9867eecd3f89ba969608bb8d27330e5f') in 1.315530 seconds
+  Import took 1.326202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.550623 seconds.
+  path: Assets/Materials/Environment/DarkRock.mat
+  artifactKey: Guid(b0457e91fd5aba143b85e4aeaf15ae71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Environment/DarkRock.mat using Guid(b0457e91fd5aba143b85e4aeaf15ae71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7e16f2d6eeba609315ba1ef6bd114d') in 0.023760 seconds
+  Import took 0.029774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Materials/Environment/NewLayer.terrainlayer
+  artifactKey: Guid(a9475dfd82214b24286ed2bc13749f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Environment/NewLayer.terrainlayer using Guid(a9475dfd82214b24286ed2bc13749f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab1acfe64c088f8797828dccfeeac55') in 0.016491 seconds
+  Import took 0.020687 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
