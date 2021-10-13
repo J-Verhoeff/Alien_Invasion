@@ -8,14 +8,10 @@ The Game starts on the main menu scene, and from there you can navigate to 1 of 
 
 The controls are:
 
-Movement: WASD or arrow keys
-
-Shoot: Left Mouse Button
-
-Reload: R
-
-Swap Weapon: Q or scroll wheel
-
-Pause: P or Escape
+- Movement: WASD or arrow keys
+- Shoot: Left Mouse Button
+- Reload: R
+- Swap Weapon: Q or scroll wheel
+- Pause: P or Escape
 
 Using Unity version: **2020.2.3f1**
